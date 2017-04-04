@@ -14,7 +14,9 @@
 				<h3><strong>Cursos Oja.la</strong></h3>
 			</div>
 			<div class="panel-body">
-				<div class="contenido"></div>
+				<div class="contenido">
+					<div id="carousel"></div>
+				</div>
 			</div>
 			<div class="panel-footer">
 				<div class="pull-right">	
@@ -24,9 +26,29 @@
 		</div>
 	</div>
 
+	<script id="cursos" type="text/template">
+		{{#courses}}
+			<div class="curso">
+				<img src="{{cover}}">
+				<h4>Nombre: </h4>{{name}}
+				<h4>Descripción: </h4>{{description}}
+			</div>
+		{{/courses}}
+	</script>
+	
 	<script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.0.0-alpha1/jquery.min.js"></script>
-	<script src="//cdnjs.cloudflare.com/ajax/libs/jquery.cycle/3.0.3/jquery.cycle.all.min.js"></script>
+	<script src="//cdnjs.cloudflare.com/ajax/libs/jquery.cycle/3.0.3/jquery.cycle.all.min.js"></script>	
 	<script src="//cdnjs.cloudflare.com/ajax/libs/mustache.js/2.2.0/mustache.min.js"></script>
-	<script></script>	
+	
+	<script>
+		$(document).ready(function(){
+			$.getJSON('data.json', function(data){
+				var plantilla = $('#cursos').html();
+				var html = Mustache.to_html(plantilla, data);
+				$('#carousel').html(html);
+			});
+		});
+	</script>	
 </body>
 </html>
+
