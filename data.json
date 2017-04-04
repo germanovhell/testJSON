@@ -1,0 +1,243 @@
+{ "courses" : [
+	{
+	"name"        : "Aprender a construir un cliente de Flickr para Android [Parte 1]",
+    "cathegory"   : "Android",
+    "description" : "El primer paso en la construcción de una aplicación genial es tener la información adecuada para presentar al usuario. A lo largo de este curso aprenderemos como obtener datos de una API mientras construimos las bases para un navegador de imágenes obtenidas del sitio Flickr.com",
+    "duration"    : "5518.181",
+    "created_at"  : "2015-03-31 21:18:52",
+    "cover"       : "imagenes/img1.jpg"
+	},
+	{
+	"name"        : "Aprende a generar compras y anuncios dentro de tu app para iOS",
+	"cathegory"   : "iOs",
+	"description" : "Incrementa los ingresos generados por tu aplicación usando in-app purchases para distribuir productos digitales o items por suscripción desde tu aplicación haciéndola mas entretenida para tus usuarios- ",
+	"duration"    : "9141.805",
+	"created_at"  : "2015-01-16 17:30:41",
+	"cover"       : "imagenes/img2.jpg"
+	},
+	{
+	"name"        : "Conoce todo sobre programación Orientada a Objetos con PHP [ Parte 1 ]",
+	"cathegory"   : "Desarrollo Web",
+	"description" : "",
+	"duration"    : "5813.442",
+	"created_at"  : "2015-01-16 17:34:57",
+	"cover"       : "imagenes/img3.jpg"
+	},
+	{
+	"name"        : "Aprende a usar el Theme Underscore en tus desarrollos con Wordpress",
+	"cathegory"   : "Desarrollo Web",
+	"description" : "",
+	"duration"    : "8337.127",
+	"created_at"  : "2015-01-16 17:37:56",
+	"cover"       : "imagenes/img4.jpg"
+	},
+	{
+	"name"        : "Mercadeo de clientes por medio de Facebook con Facebook ads",
+	"cathegory"   : "Social Media",
+	"description" : "",
+	"duration"    : "5457.235",
+	"created_at"  : "2015-01-16 17:42:04",
+	"cover"       : "imagenes/img5.jpg"
+	},
+	{
+	"name"        : "Iníciate en la gestión para lograr ser un eficiente Community Manager",
+	"cathegory"   : "Social Media",
+	"description" : "",
+	"duration"    : "3613.364",
+	"created_at"  : "2015-02-01 19:27:57",
+	"cover"       : "imagenes/img6.jpg"
+	},
+	{
+	"name"        : "Desarrolla una aplicación Interactiva para Android con Android Studio [Parte 1]",
+	"cathegory"   : "Android",
+	"description" : "",
+	"duration"    : "7537.106",
+	"created_at"  : "2015-02-01 19:42:09",
+	"cover"       : "imagenes/img7.jpg"
+	},
+	{
+	"name"        : "Desarrolla una aplicación Interactiva para Android con Android Studio [Parte 2]",
+	"cathegory"   : "Android",
+	"description" : "",
+	"duration"    : "6971.057",
+	"created_at"  : "2015-02-01 19:46:18",
+	"cover"       : "imagenes/img8.jpg"
+	},
+	{
+	"name"        : "Aprende como crear un navegador de listas de reproducción en Swift",
+	"cathegory"   : "iOs",
+	"description" : "Para construir el proyecto desarrollado a lo largo del curso vas a necesitar una Mac donde puedas utilizar Xcode, el entorno de Desarrollo para aplicaciones iOS. Además debes tener conocimientos previos básicos del lenguaje de programación swift.",
+	"duration"    : "8475.273",
+	"created_at"  : "2015-02-01 19:53:38",
+	"cover"       : "imagenes/img9.jpg"
+	},
+	{
+	"name"        : "Conoce cómo aplicar Social Media en tus negocios ",
+	"cathegory"   : "Social Media",
+	"description" : "",
+	"duration"    : "6100.681",
+	"created_at"  : "2015-02-01 19:56:54",
+	"cover"       : "imagenes/img10.jpg"
+	},
+	{
+	"name"        : "Conoce las diferencias entre Objective-C y Swift y empieza a crear tus apps",
+	"cathegory"   : "iOs",
+	"description" : "Es deseable poseer conocimientos previos de Objective-C y conocer algunos conceptos básicos de Swift. Para realizar los ejercicios prácticos es necesario que tengas disponible una Mac donde puedas utilizar Xcode, el entorno de Desarrollo para aplicaciones iOS y Mac.",
+	"duration"    : "6162.043",
+	"created_at"  : "2015-02-01 20:03:24",
+	"cover"       : "imagenes/img11.jpg"
+	},
+	{
+	"name"        : "Conoce todo sobre programación Orientada a Objetos con PHP [ Parte 2 ]",
+	"cathegory"   : "Desarrollo Web",
+	"description" : "",
+	"duration"    : "4434.825",
+	"created_at"  : "2015-02-01 20:08:32",
+	"cover"       : "imagenes/img12.jpg"
+	},
+	{
+	"name"        : "Conoce paso a paso Cinema 4D para tus diseños 3D [ Parte 3 ]",
+	"cathegory"   : "Otros",
+	"description" : "",
+	"duration"    : "3716.814",
+	"created_at"  : "2015-02-01 20:17:22",
+	"cover"       : "imagenes/img13.jpg"
+	},
+	{
+	"name"        : "Aprende a usar el Theme Underscore en tus desarrollos con Wordpress [Parte 2]",
+	"cathegory"   : "Desarrollo Web",
+	"description" : "",
+	"duration"    : "8668.686",
+	"created_at"  : "2015-02-01 20:20:06",
+	"cover"       : "imagenes/img14.jpg"
+	},
+	{
+	"name"        : "Construye una comunidad en línea y conoce algunas herramientas para Social Media",
+	"cathegory"   : "Social Media",
+	"description" : "",
+	"duration"    : "4143.39",
+	"created_at"  : "2015-02-01 20:21:30",
+	"cover"       : "imagenes/img15.jpg"
+	},
+	{
+	"name"        : "Aprende a usar el Theme Underscore en tus desarrollos con Wordpress [Parte 3]",
+	"cathegory"   : "Desarrollo Web",
+	"description" : "",
+	"duration"    : "5613.999",
+	"created_at"  : "2015-02-06 17:38:11",
+	"cover"       : "imagenes/img16.jpg"
+	},
+	{
+	"name"        : "Aprende a usar Bootstrap en tus sitios web responsive",
+	"cathegory"   : "Desarrollo Web",
+	"description" : "",
+	"duration"    : "5320.957",
+	"created_at"  : "2015-02-15 16:40:07",
+	"cover"       : "imagenes/img17.jpg"
+	},
+	{
+	"name"        : "Aprende a crear aplicaciones con base de datos locales",
+	"cathegory"   : "Android",
+	"description" : "En este curso utilizaremos una aplicación base llamada “Creador de postales” a la cual realizaremos modificaciones usando Android Studio para ir agregando los distintos modos de persistencia de datos disponibles en el sistema operativo Android pasando desde el almacenamiento en sistemas de archivos hasta el almacenamiento de información en bases de datos relacionales usando SQLite. ",
+	"duration"    : "10031.619",
+	"created_at"  : "2015-02-15 16:41:56",
+	"cover"       : "imagenes/img18.jpg"
+	},
+	{
+	"name"        : "Introducción al SDK 8 de iOS para el desarrollo de aplicaciones móviles",
+	"cathegory"   : "iOs",
+	"description" : "",
+	"duration"    : "10754.292",
+	"created_at"  : "2015-02-15 16:43:14",
+	"cover"       : "imagenes/img19.jpg"
+	},
+	{
+	"name"        : "Fundamentos de “Growth Hacking” para Diseñadores",
+	"cathegory"   : "Mercadeo",
+	"description" : "",
+	"duration"    : "4598.667",
+	"created_at"  : "2015-02-15 16:46:10",
+	"cover"       : "imagenes/img20.jpg"
+	},
+	{
+	"name"        : "Iníciate en el desarrollo de juegos para Android: Hangman [Parte 1]",
+	"cathegory"   : "Android",
+	"description" : "Vamos a aprender los conceptos básicos de las aplicaciones Android construyendo un juego sencillo, una versión digital del juego Ahorcado, a través del cual podremos entender fácilmente los principios esenciales que rigen el desarrollo de las aplicaciones para Android cómo la interacción con el usuario y los elementos de una aplicación. ",
+	"duration"    : "5344.736",
+	"created_at"  : "2015-02-28 15:40:48",
+	"cover"       : "imagenes/img21.jpg"
+	},
+	{
+	"name"        : "Iníciate en el desarrollo de juegos para Android: Hangman [Parte 2]",
+	"cathegory"   : "Android",
+	"description" : "Vamos a poner en práctica los fundamentos esenciales que permiten construir buenas aplicaciones para Android, adquiriendo conocimientos muy importantes a la hora de desarrollar aplicaciones comerciales, cómo el almacenamiento de información en el dispositivo y la creación dinámica de componentes de la interfaz de usuario. ",
+	"duration"    : "6021.019",
+	"created_at"  : "2015-02-28 15:46:16",
+	"cover"       : "imagenes/img22.jpg"
+	},
+	{
+	"name"        : "Conoce Android Studio para iniciarte en el desarrollo de apps",
+	"cathegory"   : "Android",
+	"description" : "",
+	"duration"    : "4284.378",
+	"created_at"  : "2015-02-28 16:23:05",
+	"cover"       : "imagenes/img23.jpg"
+	},
+	{
+	"name"        : "Crea un aplicación del clima con Android Studio [ Parte 1 ]",
+	"cathegory"   : "Android",
+	"description" : "",
+	"duration"    : "7672.197",
+	"created_at"  : "2015-02-28 20:53:16",
+	"cover"       : "imagenes/img24.jpg"
+	},
+	{
+	"name"        : "Aprende a trabajar con gráficos en Excel para visualizar tus datos",
+	"cathegory"   : "Otros",
+	"description" : "",
+	"duration"    : "4676.673",
+	"created_at"  : "2015-03-03 01:35:33",
+	"cover"       : "imagenes/img25.jpg"
+	},
+	{
+	"name"        : "Aprende a usar el API de Google Maps en tus apps para Android [ Parte 1 ]",
+	"cathegory"   : "Android",
+	"description" : "Para encontrar nuestra siguiente experiencia musical, artística o deportiva, vamos a aprender algunos nuevos conceptos y a conocer algunos componentes desde un enfoque práctico, mientras construimos una aplicación donde se muestra información obtenida desde una base de datos alojada en la nube por medio del sitio web Parse.com ",
+	"duration"    : "6212.447",
+	"created_at"  : "2015-03-15 18:14:40",
+	"cover"       : "imagenes/img26.jpg"
+	},
+	{
+	"name"        : "Aprende a usar Bootstrap en tus sitios web responsive [Parte 2]",
+	"cathegory"   : "Desarrollo Web",
+	"description" : "",
+	"duration"    : "4964.792",
+	"created_at"  : "2015-03-15 18:17:54",
+	"cover"       : "imagenes/img27.jpg"
+	},
+	{
+	"name"        : "Consejos y mejores prácticas con Excel 2013 [ Parte 1 ]",
+	"cathegory"   : "Otros",
+	"description" : "En este curso puntualizaremos algunas formas para utilizar de manera más eficiente Excel, la mayoría de usuarios de este software no están aprovechándolo en toda su capacidad, debido a que no conocen algunos trucos y atajos que posee. ",
+	"duration"    : "4673.076",
+	"created_at"  : "2015-03-15 18:19:42",
+	"cover"       : "imagenes/img28.jpg"
+	},
+	{
+	"name"        : "Crea un aplicación del clima con Android Studio [ Parte 2 ]",
+	"cathegory"   : "Android",
+	"description" : "",
+	"duration"    : "8803.84",
+	"created_at"  : "2015-03-15 18:21:41",
+	"cover"       : "imagenes/img29.jpg"
+	},
+	{
+	"name"        : "Aprende a usar el API de Google Maps en tus apps para Android [ Parte 2 ]",
+	"cathegory"   : "Android",
+	"description" : "¿Deseas saber que está sucediendo a tu alrededor? ¿Estás buscando una fiesta o una obra de teatro? En este curso aprenderemos a relacionar la información obtenida de una base de datos en la nube con un mapa por medio de Google Maps, enviaremos notificaciones a nuestros usuarios, y aprenderemos a monetizar una aplicación, para finalmente publicarla en Google Play Store, vamos a terminar de construir Eventify ",
+	"duration"    : "5443.776",
+	"created_at"  : "2015-03-24 15:05:52",
+	"cover"       : "imagenes/img30.jpg"
+	}
+  ]	
+}

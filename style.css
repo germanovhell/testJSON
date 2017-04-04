@@ -1,0 +1,12 @@
+div.container{
+	margin-top: 50px;
+}
+
+#img_ojala{
+	height: 30px;
+	width: 80px;
+}
+
+div.panel-footer{
+	min-height: 50px;
+}
