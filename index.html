@@ -15,9 +15,15 @@
 			</div>
 			<div class="panel-body">
 				<div class="contenido">
-					<a href="#" id="next_btn" class="glyphicon glyphicon-chevron-left"></a>
-					<a href="#" id="prev_btn" class="glyphicon glyphicon-chevron-right"></a>
-					<div id="carousel"></div>
+					<div class="panel panel-default" id="panel-carousel">
+						<div class="panel-body">			
+							<div id="carousel"></div>
+						</div>
+						<div class="panel-footer">
+							<a href="#" id="prev_btn" class="glyphicon glyphicon-chevron-left"></a>
+							<a href="#" id="next_btn" class="glyphicon glyphicon-chevron-right"></a>
+						</div>
+					</div>
 				</div>
 			</div>
 			<div class="panel-footer">
@@ -31,7 +37,7 @@
 	<script id="cursos" type="text/template">
 		{{#courses}}
 			<div class="curso">
-				<img src="{{cover}}">
+				<img src="{{cover}}" class="img-rounded">
 				<h4>Nombre: </h4>{{name}}
 				<h4>Descripción: </h4>{{description}}
 			</div>
