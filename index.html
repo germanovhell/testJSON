@@ -15,6 +15,8 @@
 			</div>
 			<div class="panel-body">
 				<div class="contenido">
+					<a href="#" id="next_btn" class="glyphicon glyphicon-chevron-left"></a>
+					<a href="#" id="prev_btn" class="glyphicon glyphicon-chevron-right"></a>
 					<div id="carousel"></div>
 				</div>
 			</div>
@@ -46,9 +48,17 @@
 				var plantilla = $('#cursos').html();
 				var html = Mustache.to_html(plantilla, data);
 				$('#carousel').html(html);
+
+				$('#carousel').cycle({
+					fx      : 'fade',
+					pause   : 1,
+					next    : '#next_btn',
+					prev    : '#prev_btn',
+					speed   : 500,
+					timeout : 10000
+				});	
 			});
 		});
 	</script>	
 </body>
 </html>
-
